@@ -50,7 +50,7 @@ export default {
     .year {
         margin-bottom: 0.5rem;
         font-size: 18px;
-        color: rgba($primary-color, 0.2);
+        color: rgba($primary-color, 0.4);
     }
 }
 </style>
